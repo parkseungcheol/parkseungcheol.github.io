@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Seung cheol Park
+title:            Seung-cheol Park
 # tagline:          'Seungcheol Park'
 tagline:          
 description:      'B.S. Student at <a href="http://konkuk.ac.kr" target="_blank">Konkuk University</a>.'

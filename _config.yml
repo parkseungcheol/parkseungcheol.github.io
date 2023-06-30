@@ -3,8 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Seungcheol Park
-tagline:          'Seungcheol Park'
+title:            Seung cheol Park
+# tagline:          'Seungcheol Park'
+tagline:          
 description:      'B.S. Student at <a href="http://konkuk.ac.kr" target="_blank">Konkuk University</a>.'
 url:              https://parkseungcheol.github.io
 baseurl:          

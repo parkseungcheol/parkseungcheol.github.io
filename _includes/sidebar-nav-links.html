@@ -8,8 +8,8 @@
 	href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
   {% endif %}
 	
-  <a class="test-link {% if page.url == '/' %} active{% endif %}"
-        href="javascript:window.scrollTo(0, 100);">test</a>
+<!--   <a class="test-link {% if page.url == '/' %} active{% endif %}"
+        href="javascript:window.scrollTo(0, 100);">test</a> -->
 	
   {% comment %}
     The code below dynamically generates a sidebar nav of pages with
@@ -17,7 +17,7 @@
   {% endcomment %}
 
   {% include page-links.html %}
-  {% include category-links.html %}
+<!--   {% include category-links.html %} -->
 
-  {% include custom-nav-links.html %}
+<!--   {% include custom-nav-links.html %} -->
 </nav>
